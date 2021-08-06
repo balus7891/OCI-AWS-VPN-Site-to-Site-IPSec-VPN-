@@ -1,12 +1,12 @@
 # OCI AWS VPN (Site to Site IPSec VPN)
   ----------------------------------
 
-# **Site-to-Site VPN (IPSec) between OCI and AWS**
-# **The Below document explains you How to setup IPSec VPN Connectivity between AWS and OCI using the built-in VPN Services offered by Oracle Cloud and AWS**
-## **We will explore the possibility to create an IPSec tunnel (or redundant IPSec tunnels, if we configure two separate VPN Connections) using the built-in VPN Services. Here we are not using any third party appliances.** 
-## **OCI is not offering the possibility to update a particular VPN Connection by changing the CPE (Customer-premises Equipment) used. AWS can update the CPE used for a given VPN Connection and thus, we will rely on this function to be able to create the IPSec tunnel to OCI.**
+## **Site-to-Site VPN (IPSec) between OCI and AWS**
+#### **The Below document explains you How to setup IPSec VPN Connectivity between AWS and OCI using the built-in VPN Services offered by Oracle Cloud and AWS**
+#### **We will explore the possibility to create an IPSec tunnel (or redundant IPSec tunnels, if we configure two separate VPN Connections) using the built-in VPN Services. Here we are not using any third party appliances.** 
+#### **OCI is not offering the possibility to update a particular VPN Connection by changing the CPE (Customer-premises Equipment) used. AWS can update the CPE used for a given VPN Connection and thus, we will rely on this function to be able to create the IPSec tunnel to OCI.**
 
-# **Target Architecture setup**
+## **Target Architecture setup**
 ![](images/Aspose.Words.61b6ff88-406a-4ef3-92e1-d4a4123eb8fe.001.png)
 
 OCI CIDR Range : **10.10.0.0/16**
