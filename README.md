@@ -146,12 +146,13 @@ Update Route table in OCI Side
 ![](images/Aspose.Words.61b6ff88-406a-4ef3-92e1-d4a4123eb8fe.002.png)
 
 Yeah Now Its the time to test the connectivity
-# **AWS to OCI ** 
+
+## **AWS to OCI** 
 
 ![](images/Aspose.Words.61b6ff88-406a-4ef3-92e1-d4a4123eb8fe.011.png)  
 
 
-# **OCI to AWS**
+## **OCI to AWS**
 
 ![](images/Aspose.Words.61b6ff88-406a-4ef3-92e1-d4a4123eb8fe.012.png)
 
